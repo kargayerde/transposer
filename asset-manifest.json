@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transposer/static/css/main.1230321e.css",
+    "main.js": "/transposer/static/js/main.b8d49f87.js",
+    "index.html": "/transposer/index.html",
+    "main.1230321e.css.map": "/transposer/static/css/main.1230321e.css.map",
+    "main.b8d49f87.js.map": "/transposer/static/js/main.b8d49f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1230321e.css",
+    "static/js/main.b8d49f87.js"
+  ]
+}
